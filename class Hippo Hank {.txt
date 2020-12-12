@@ -1,0 +1,24 @@
+class Hippo Hank {
+
+  constructor(friends){
+    this.name = 'Hippo Hank';
+    this.home = 'The Swamp';
+    this.enemy = CooperCroc('CooperCroc', [0,0,0]);
+    this.seeking = 'victory';
+    this.route = 'to the finish line';
+
+  }
+
+
+  befriend(){
+    //likes anybody who is as fast as him!
+
+  }
+
+  dance(){
+        whenhewins;
+  }
+
+  cry(){
+ //might cry when he loses
+  }
